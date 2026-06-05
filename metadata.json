@@ -1,0 +1,6 @@
+{
+  "name": "한국 영화 박스오피스",
+  "description": "대한민국의 최신 영화 박스오피스 순위와 상세 정보를 제공하는 웹 애플리케이션입니다. 날짜별 순위 검색, 출연진, 예고편 상세 보기 및 영화 제목 검색 기능을 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
